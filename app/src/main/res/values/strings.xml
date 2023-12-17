@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android3-hw3.2</string>
+    <string name="hint_user_name">User name</string>
+    <string name="hint_user_email">User email</string>
+</resources>
